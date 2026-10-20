@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "hynek",
+  "repo": "first",
+  "versions": [
+    {
+      "commit": "d18599541b15b0fa351b66e20b04b1edd735df4b",
+      "parsed_at": "2026-10-20T14:32:48.264913+00:00",
+      "filetree": "filetree/d18599541b15b0fa351b66e20b04b1edd735df4b.nq.gz",
+      "blobs": [
+        "blob/cd81bfecd13235ba10cf277d952c6144ef8d84fd.nq.gz",
+        "blob/38d9b0a850a7dd55c0e9205700cc637428b4b5af.nq.gz",
+        "blob/f0bab18e5d89b6c3f9cd375f7430a44d7b8a7979.nq.gz",
+        "blob/43708606c605f2a5272eb1f56dec1ba6fb033825.nq.gz",
+        "blob/4648e41610d7e483f44de3a210f45ce4c9e3d717.nq.gz",
+        "blob/e687cc5eeaf2d0ad2a20f953adec830b4b5a3218.nq.gz",
+        "blob/a665c546b657dbfe0e599bb52d8fa7425f069853.nq.gz",
+        "blob/a9c8c9db74449dcdab881be385a5a35244087ff3.nq.gz",
+        "blob/8cf9d2d1c916885bb9c2f0da6fbd5f6d29b11584.nq.gz",
+        "blob/30b9bff925ff2274108b589265770eaa4fbf6b45.nq.gz",
+        "blob/c660921c753113304b04f1e4ad2c94ef7d7d616f.nq.gz",
+        "blob/5c912c147b8035b91ed12ee7d8321fd118ea95c6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
