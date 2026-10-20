@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/hynek/first/commit/d18599541b15b0fa351b66e20b04b1edd735df4b",
       "git:hexsha": "d18599541b15b0fa351b66e20b04b1edd735df4b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T14:34:42.514635+00:00"
     },
     {
       "@id": "https://repolex.ai/r/hynek/first/commit/027390e82f815346b68e24d08ccb89228135852b",
