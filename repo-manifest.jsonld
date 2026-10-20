@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hynek/first/commit/d18599541b15b0fa351b66e20b04b1edd735df4b",
       "git:hexsha": "d18599541b15b0fa351b66e20b04b1edd735df4b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hynek/first/commit/027390e82f815346b68e24d08ccb89228135852b",
